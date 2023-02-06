@@ -8,12 +8,13 @@ Developing an Image Classifier with Deep Learning
 4. Train
 5. Predict
 6. Specifications
-7. Usage
-8. Options
-9. Deployment
-10. Requirements
-11. Contributing
-12. License
+7. Screenshot
+8. Usage
+9. Options
+10. Deployment
+11. Requirements
+12. Contributing
+13. License
 
 ## Overview
 In this project, you'll train an image classifier to recognize different species of flowers. With the help of command line parameters you can enter variou parious parameter for yor model and make predictions.
@@ -35,6 +36,15 @@ The second file, `predict.py`, uses a trained network to predict the class for a
 
 ## Specifications
 The project submission must include at least two files `train.py` and `predict.py`. Make sure to include all files necessary to run `train.py` and `predict.py` in your submission.
+
+## Screenshots
+<p align="center">
+  <img src="Training network.png">
+</p>
+
+<p align="center">
+  <img src="Sanity Checking.png">
+</p>
 
 ## Usage
 To use the application, run the following commands:
