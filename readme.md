@@ -1,5 +1,5 @@
 # Image Classifier Project
-Developing an Image Classifier with Deep Learning
+Developing an Image Classifier command line app with pretrained Networks.
 
 ## Table of Contents
 1. Overview
@@ -17,7 +17,7 @@ Developing an Image Classifier with Deep Learning
 13. License
 
 ## Overview
-In this project, you'll train an image classifier to recognize different species of flowers. With the help of command line parameters you can enter variou parious parameter for yor model and make predictions.
+In this project, you'll train an image classifier to recognize different species of flowers. With the help of command line parameters you can enter various parameter for yor model and make predictions.
 
 ## Part 1 - Jupyter Notebook Implementation
 The project is broken down into multiple steps:
